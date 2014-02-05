@@ -7,6 +7,7 @@ public class main {
 		
 		System.out.println("This is a test");
 		System.out.println("This is test 1");
+		System.out.println("This is test 2");
 
 	}
 
